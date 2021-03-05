@@ -7,7 +7,7 @@ What is gyroled
 ---------------------
 Turn on a RGB led and a buzzer with a gyroscope or a RFID card /badge on arduino
 
-| Note : the comments in the code are in french)
+| (Note : the comments in the code are in french)
 |---
 
 How to use
