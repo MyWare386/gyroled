@@ -162,17 +162,6 @@ void loop()
     noTone(DIO_Buzzer);
   }
 
-  /* -------------------------------------------------- Sound Sensor -------------------------------------------------- */
-
-  analogValue = analogRead(sensorAnalogPin);
-  digitalValue = digitalRead(sensorDigitalPin);
-  Serial.print("Son : \t");
-  Serial.println(analogValue);
-
-  if (digitalValue == HIGH) {
-    Serial.println("Trop fort ! \t");
-  }
-
   /* -------------------------------------------------- Module RFID -------------------------------------------------- */
 
   if (monModuleRFID.isCard()) {
