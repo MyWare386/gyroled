@@ -48,3 +48,5 @@ _Something's wrong, I can feel it_
 
 Credits
 --------------------
+
+Made with C++ (arduino), PHP, HTML and CSS by <a href="https://myware386.github.io/myware-website/">**MyWare**</a>
