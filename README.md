@@ -14,10 +14,11 @@ Contents
 
 - <a href="https://github.com/MyWare386/gyroled#what-is-gyroled">What is gyroled</a>
 - <a href="https://github.com/MyWare386/gyroled#contents">Contents</a>
+- <a href="https://github.com/MyWare386/gyroled#how-to-use-?">How to use ?</a>
 
 <br>
 
-How to use
+How to use ?
 --------------------
 
 **You need :**
