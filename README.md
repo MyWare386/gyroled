@@ -15,7 +15,7 @@ Contents
 - <a href="https://github.com/MyWare386/gyroled#what-is-gyroled">What is gyroled</a>
 - <a href="https://github.com/MyWare386/gyroled#contents">Contents</a>
 - <a href="https://github.com/MyWare386/gyroled#how-to-use-">How to use ?</a>
-- <a href="https://github.com/MyWare386/gyroled#note">How to use ?</a>
+- <a href="https://github.com/MyWare386/gyroled#note">Note</a>
 
 <br>
 
