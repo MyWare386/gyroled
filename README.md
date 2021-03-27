@@ -3,9 +3,18 @@
 | :warning: This is a test project 
 |---
 
+<br>
+
 What is gyroled
 ---------------------
 Turn on a RGB led and a buzzer with a gyroscope or a RFID card /badge on arduino
+
+<br>
+
+Contents
+-------------------
+
+<br>
 
 How to use
 --------------------
@@ -17,6 +26,8 @@ How to use
 - A RGB Led
 - A RC522 RFID module
 - A buzzer
+
+<br>
 
 Note
 -------------------
