@@ -36,3 +36,8 @@ Note
 -------------------
 
 - the comments in the code are in french
+
+<br>
+
+News
+------------------
