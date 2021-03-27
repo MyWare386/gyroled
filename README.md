@@ -18,8 +18,7 @@ How to use
 - A RC522 RFID module
 - A buzzer
 
-Other
+Note
 -------------------
 
-| (Note : the comments in the code are in french)
-|---
+- the comments in the code are in french
