@@ -16,6 +16,7 @@ Contents
 - <a href="https://github.com/MyWare386/gyroled#contents">Contents</a>
 - <a href="https://github.com/MyWare386/gyroled#how-to-use-">How to use ?</a>
 - <a href="https://github.com/MyWare386/gyroled#note">Note</a>
+- - <a href="https://github.com/MyWare386/gyroled#news">News</a>
 
 <br>
 
